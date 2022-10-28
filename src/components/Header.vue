@@ -19,7 +19,7 @@
       <!-- NO BLOG YET <ul> <li> <a rel="nofollow noopener noreferrer" href="https://blog.justintylers.com"> Blog </a> </li> </ul> -->
       <ul>
         <li>
-          <a target="_blank" rel="nofollow noopener noreferrer" href="https://twitter.com/JTylerTweets">
+          <a target="_blank" rel="nofollow noopener noreferrer" href="https://twitter.com/JustinTAngeles">
             <v-icon name="brands/twitter" scale="2" class="twitter" />
             <!-- <FaTwitter color="#1DA1F2" size="30" /> -->
           </a>
@@ -31,7 +31,7 @@
           </a>
         </li>
         <li>
-          <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/JustinTylers/">
+          <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/JustinTAngeles">
             <v-icon name="brands/linkedin" scale="2" class="linkedin"/>
             <!-- <FaLinkedin color="#3077B0" size="30" /> -->
           </a>
